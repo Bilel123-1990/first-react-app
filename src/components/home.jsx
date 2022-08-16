@@ -6,14 +6,14 @@ export default function home() {
   return (
     <div className="home-container">
         <div className="divflex">
-       <Card/>
-       <Card/>
-       <Card/>
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card2.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"} />
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card8-hover.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card4-hover.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
        </div>
        <div className="divflex"> 
-       <Card/>
-       <Card/>
-       <Card/>
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card4-hover.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card5-hover.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
+       <Card img={"https://3wa.fr/wp-content/uploads/2020/03/card9-hover.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
        </div>
       {/* <div className="div2">
         <h3>
