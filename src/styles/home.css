@@ -1,0 +1,32 @@
+
+.home-container{
+    height: 500px;
+    margin-top: 50px;
+}
+
+
+
+.div2{
+    text-align: center;
+    width: 70%;
+    height: 80%;
+    margin-left: 250px;
+}
+/* .div3{
+    display: flex;
+    justify-content: space-around;
+} */
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.divflex{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h3{
+    color: orange;
+}

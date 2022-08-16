@@ -1,0 +1,40 @@
+.nav-bar{
+    display: flex;
+    background-color: black;
+    color: white ;
+    /* height: 150px;; */
+
+}
+.div-bar{
+    flex-basis: 50%;
+    justify-content:flex-end;
+   
+}
+.ul-bar{
+    display: flex;
+    
+}
+
+.div-bar {
+    display: flex;
+    flex-basis: 70%;
+    text-align: right;
+    /* border: 1px solid red; */ 
+}
+li{
+    padding: 20px;
+
+}
+.boutton{
+    width: 100px;
+    height: 50px;
+    background-color:blue;
+    padding: 5px 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.logo-navbar{
+    width: 60%;
+    height: 97%;
+}
